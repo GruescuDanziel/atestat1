@@ -6,9 +6,6 @@
     <timpii />
     <geneza />
     <diferenta />
-    <substratul />
-    <imaginii />
-    <selectiva />
   </div>
 </template>
 
@@ -21,22 +18,16 @@ import etape from './components/etapele.vue'
 import geneza from './components/geneza.vue'
 import Timpii from './components/timpii.vue'
 import Diferenta from './components/diferenta.vue'
-import Substratul from './components/substratul.vue'
-import Imaginii from './components/imaginii.vue'
-import Selectiva from './components/selectiva.vue'
 
 export default {
   name: 'App',
-  components: {
+   components: {
     homePage,
     aplicatii,
     etape,
     geneza,
     Timpii,
-    Diferenta,
-    Substratul,
-    Imaginii,
-    Selectiva
+    Diferenta
 
   },
   methods:{
