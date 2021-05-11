@@ -60,7 +60,7 @@ export default {
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Share:wght@400;700&display=swap');
-
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
   ::-webkit-scrollbar {
     width:10px;
   }
@@ -85,8 +85,14 @@ export default {
     width:auto;
   }
   *{
-    font-family:cursive;
+    font-family:'Merriweather',cursive;
     margin:0;
   }
 
+
+  @media only screen and (max-width:414px){ 
+      h3, h5{
+        text-align:center
+      }
+     }
 </style>

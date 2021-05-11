@@ -42,7 +42,9 @@
 
 
   @media only screen and (max-width:414px){ 
-
+      #aplicationsContainer{
+        margin-bottom:100%;
+      }
       #dataContainer{
         flex-direction: column-reverse;
       }
