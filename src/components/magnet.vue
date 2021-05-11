@@ -15,7 +15,7 @@
 <style scoped>
 
   #magnetContainer{
-      height:50%;
+      height:auto;
       width:100%;
       margin-bottom:20%;
   }
