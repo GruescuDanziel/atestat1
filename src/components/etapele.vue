@@ -40,24 +40,18 @@
 <style scoped>
 
   #etapa1 img{
-    margin-top:2%;
-    width:150vw;
-    margin-left:10%;
+    max-width: 50%;
   }
-
   #etapa2 img{
-    width: 43.3vw;
-    margin-left:10%;
+    max-width: 50%;
   }
 
   #etapa3 img{
-    width:67.5vw;
-    margin-left:10%;
+     max-width: 50%;
   }
 
   #etapa4 img{
-    width:56.4vw;
-    margin-left:10%;
+      max-width: 50%;
   }
 
   #etapa4{

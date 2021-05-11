@@ -16,8 +16,7 @@
 
   img{
     position:absolute;
-    width:90vw;
-
+    max-width:100%;
   }
 
   h1{
@@ -34,7 +33,7 @@
     display:flex;
     justify-content:center;
     align-items:center;
-    font-size:3.5vh;
+    font-size:150%;
     text-align:center;
     color:white;
   }

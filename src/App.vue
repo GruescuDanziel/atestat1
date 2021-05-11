@@ -9,6 +9,8 @@
     <substratul />
     <imaginii />
     <selectiva />
+    <magnet />
+    <investigare />
   </div>
 </template>
 
@@ -24,6 +26,8 @@ import Diferenta from './components/diferenta.vue'
 import Substratul from './components/substratul.vue'
 import Imaginii from './components/imaginii.vue'
 import Selectiva from './components/selectiva.vue'
+import Magnet from './components/magnet.vue'
+import Investigare from './components/investigare.vue'
 
 export default {
   name: 'App',
@@ -36,7 +40,9 @@ export default {
     Diferenta,
     Substratul,
     Imaginii,
-    Selectiva
+    Selectiva,
+    Magnet,
+    Investigare
 
   },
   methods:{
