@@ -17,7 +17,7 @@
   #magnetContainer{
       height:auto;
       width:100%;
-      margin-bottom:20%;
+      margin-bottom:30%;
   }
   .hide{
     opacity:0;
