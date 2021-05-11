@@ -14,7 +14,7 @@
   #sclerozaContainer{
       height:50%;
       width:100%;
-      margin-top:100%;
+      margin-top:10%;
   }
   .hide{
     opacity:0;
