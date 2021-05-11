@@ -41,7 +41,6 @@
 
   @media only screen and (max-width:414px){ 
     #sclerozaContainer{
-      margin-top:100%; 
     }
     #dataContainer{
       flex-direction: column-reverse;
