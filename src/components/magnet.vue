@@ -46,7 +46,7 @@
 
   @media only screen and (max-width:414px){ 
       #magnetContainer{
-        margin-bottom: 90%;
+        margin-bottom: 100%;
       }
       #dataContainer{
         flex-direction: column-reverse;
