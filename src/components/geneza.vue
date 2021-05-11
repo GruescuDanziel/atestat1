@@ -37,6 +37,18 @@ Această transformă fiecare nucleu într-un dipol magnetic, un magnet microscop
     color:#D9CFBF;
   }
 
+  @media only screen and (max-width:414px){ 
+
+      #dataContainer{
+        flex-direction: column-reverse;
+        border-top: 1px #D9CFBF solid;
+      }
+
+      #dataContainer img{
+        max-width: 100%;
+      }     
+
+     }
 
 </style>
 

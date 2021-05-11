@@ -44,6 +44,21 @@
   }
 
 
+  @media only screen and (max-width:414px){ 
+      #magnetContainer{
+        margin-bottom: 90%;
+      }
+      #dataContainer{
+        flex-direction: column-reverse;
+      }
+      #dataContainer img{
+        max-width: 100%;
+      }
+      #dataContainer h3{
+        font-size:120%;
+      }
+     }
+
 </style>
 
 <script>

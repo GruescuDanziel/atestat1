@@ -83,6 +83,28 @@
   }
 
 
+  @media only screen and (max-width:414px){ 
+
+      .dataContainer{
+        flex-direction: column-reverse;
+        margin-bottom:5%; 
+        border-bottom: 1px #D9CFBF solid;
+        padding-bottom: 2%;
+      }
+
+      #etapeleContainer{
+        margin-top:60%;
+      }
+
+      #etapeleContainer img{
+        max-width: 100%;
+      }
+
+      #etapeleContainer h3{
+        font-size:120%;
+      }
+
+     }
 </style>
 
 

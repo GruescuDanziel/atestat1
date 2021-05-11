@@ -64,6 +64,27 @@
     opacity:1;
   }
 
+  @media only screen and (max-width:414px){ 
+
+    #diferentialContainer{
+        display: flex;
+        flex-direction: column-reverse;
+        text-align:center;
+        align-items: center;
+        justify-content: center;
+        border-bottom: 1px #D9CFBF solid;
+        border-top: 1px #D9CFBF solid;
+    }
+
+    #diferentialContainer h5{
+      font-size:150%;
+    }
+
+    #bottomHalf, #topHalf{
+      width: 100%;
+    }
+
+     }
 </style>
 
 

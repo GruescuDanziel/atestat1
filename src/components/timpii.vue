@@ -61,7 +61,11 @@
   }
 
   #rightPart img,#leftPart img{
-    width:20vw;
+    max-width: 100%;
+  }
+
+  #leftPart img{
+    max-width: 200%;
   }
 
   #leftPart{
@@ -85,6 +89,27 @@
 
   }
 
+  @media only screen and (max-width:414px){ 
+
+    #leftPart{
+      display: flex;
+      flex-direction: column-reverse;
+      align-items:center ;
+    }
+
+    #rightPart{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #leftPart h5, #rightPart h5{
+      font-size: 120%;
+      text-align: center;
+    }
+
+
+     }
 </style>
 
 

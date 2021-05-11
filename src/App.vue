@@ -82,9 +82,11 @@ export default {
     top:0;
     left:0;
     height:100%;
+    width:auto;
   }
   *{
     font-family:cursive;
     margin:0;
   }
+
 </style>

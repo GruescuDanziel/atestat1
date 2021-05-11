@@ -41,6 +41,21 @@
   }
 
 
+  @media only screen and (max-width:414px){ 
+
+      #dataContainer{
+        flex-direction: column-reverse;
+      }
+
+      #dataContainer img{
+        max-width: 100%;
+      }
+
+      #dataContainer h3{
+        font-size: 150%;
+      }
+
+     }
 </style>
 
 <script>

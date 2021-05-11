@@ -38,6 +38,22 @@
     color:white;
   }
 
+  @media only screen and (max-width:414px){ 
+      
+    h1{
+        
+      font-size: 100%;
+
+    }
+   img{
+    position:absolute;
+    max-width:100%;
+  }
+
+     
+    
+
+     }
 
 </style>
 

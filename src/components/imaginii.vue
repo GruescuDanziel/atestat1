@@ -75,6 +75,13 @@
     text-align:left;
   }
 
+  @media only screen and (max-width:414px){ 
+
+    .dataContainer h3{
+      font-size:130%;
+    }
+
+     }
 
 </style>
 

@@ -83,6 +83,42 @@
     text-align:left;
   }
 
+  @media only screen and (max-width:414px){ 
+    
+    #substratulContainer{
+      flex-direction: column;
+    }
+
+    #etapa1{
+      flex-direction: column-reverse;
+    }
+
+    #etapa1 img{
+      max-width: 100%;
+    }
+
+    #etapa1 h3{
+      font-size:150%;
+    }
+
+    #etapa2 img{
+      max-width: 100%;
+    }
+
+    #etapa2{
+      flex-direction: column;
+    }
+
+    #etapa2 h3{
+      font-size:150%;
+    }
+
+    #etapa4 h3, #etapa3 h3{
+      font-size:150%;
+    }
+
+
+     }
 
 </style>
 
