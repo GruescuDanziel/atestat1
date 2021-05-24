@@ -11,6 +11,7 @@
     <selectiva />
     <magnet />
     <investigare />
+    <contacts />
   </div>
 </template>
 
@@ -28,6 +29,7 @@ import Imaginii from './components/imaginii.vue'
 import Selectiva from './components/selectiva.vue'
 import Magnet from './components/magnet.vue'
 import Investigare from './components/investigare.vue'
+import Contacts from './components/contacts.vue'
 
 export default {
   name: 'App',
@@ -42,7 +44,8 @@ export default {
     Imaginii,
     Selectiva,
     Magnet,
-    Investigare
+    Investigare,
+    Contacts
 
   },
   methods:{

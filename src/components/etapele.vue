@@ -4,9 +4,9 @@
     <div id="etapa1" class="dataContainer">
       <div class='textData'> 
         <h3>
-          Obținerea imaginii prin aceste fenomen de rezonanță magneticâ cuprinde câteva momente distincte.
+          Obținerea imaginii prin acest fenomen de rezonanță magnetică cuprinde câteva momente distincte.
           În condiții obișnuite, orientarea micromagneților reprezentați de nucleii atomici din structurile anatomice este întâmplătoare.
-          Câmpurile magnetice individuale se neutralizeazâ reciproc, astfel că manifestările lor nu sunt decelabile.
+          Câmpurile magnetice individuale se neutralizează reciproc, astfel că manifestările lor nu sunt decelabile.
         </h3>
         <h3>Corpul uman este supus unui câmp magnetic exterior foarte puternic, care rămâne constant în timpul investigației și care produce alinierea în aceeași direcție a dipolilor magnetici nucleari.</h3>
       </div>
@@ -15,21 +15,21 @@
 
     <div id="etapa2" class="dataContainer">
       <div class='textData'>
-        <h3> Aplicarea unui câmp magnetic exterior foarte puternic produce alinierea lor în direcția acestuia </h3>
+        <h3> Aplicarea unui câmp magnetic exterior foarte puternic produce alinierea lor în direcția acestuia. </h3>
         <h3> Se aplică apoi o undă de radiofrecvență (RF), ceea ce determină rezonanța nucleilor.  </h3>
       </div>
       <img src="../assets/etapa2.svg">
     </div>
      <div id="etapa3" class="dataContainer">
       <div class='textData'>
-        <h3>Un impuls scrut RF determinâ intrare în rezonanță a nucleilor</h3>
+        <h3>Un impuls scurt RF determină intrarea în rezonanță a nucleilor.</h3>
         <h3>Unda de RF este apoi suprimată. Nucleii continuă să oscileze, emițând o undă de RF, care poate fi detectată ca semnal rezonant magnetic al nucleilor. </h3>
       </div>
       <img src="../assets/etapa3.svg">
     </div>
      <div id="etapa4" class="dataContainer">
       <div class='textData'>
-        <h3>Dupâ suprimarea impulsului RF, nucleii își continuâ oscilația, emițând o undâ de radiofrecvență decelabilâ.</h3>
+        <h3>După suprimarea impulsului RF, nucleii își continuă oscilația, emițând o undă de radiofrecvență decelabilă.</h3>
         <h3>Acest semnal este transmis unui computer, care îl transformă, prin prelucrare digitală, în semnale optice elementare (pixeli).</h3>
       </div>
       <img src="../assets/etapa4.svg">

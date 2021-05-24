@@ -4,8 +4,8 @@
 
     <div id="dataContainer">
       <div>
-      <h3>Este piesa centrală a instalației IRM ; el trebuie să producă un câmp magnetic extern, cât mai uniform, evitând pe cât posibl variațiile.</h3>
-      <h3>IRM realizează un foarte bun contrast între substanța albă și cea cenușie, imposibil de obținut prin altă metodă imagistică, ceea ce permite sesizarea unor procese patologice subtile, ce se produc la interfața acestora, de exemplu anomaliile de mielinizare ale copilului, scleroza multiplă și alte afecțiuni demielinizante. De asemenea, alte procese patologice pot fi reprezentate în imagine, precum edemul, infarctul, hemoragiile cerebrale. În cazul unor tumori cerebrale, diferențele între timpii de relaxare pe care le creează anumite variații histologice ( astrocitomul, meningiomul, metastazele) pot fi sugestive pentru natura acestora.</h3>
+      <h3>Magnetul este piesa centrală a instalației IRM ; el trebuie să producă un câmp magnetic extern, cât mai uniform, evitând pe cât posibl variațiile.</h3>
+      <h3>IRM realizează un foarte bun contrast între substanța albă și cea cenușie, imposibil de obținut prin altă metodă imagistică, ceea ce permite sesizarea unor procese patologice subtile, ce se produc la interfața acestora, de exemplu anomaliile de mielinizare ale corpului, scleroza multiplă și alte afecțiuni demielinizante. De asemenea, alte procese patologice pot fi reprezentate în imagine, precum edemul, infarctul, hemoragiile cerebrale. În cazul unor tumori cerebrale, diferențele între timpii de relaxare pe care le creează anumite variații histologice ( astrocitomul, meningiomul, metastazele) pot fi sugestive pentru natura acestora.</h3>
       </div>
       <img src="../assets/magnet.svg">
     </div>

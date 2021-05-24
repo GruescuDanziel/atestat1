@@ -14,7 +14,7 @@
     <div id="etapa2" class="dataContainer">
         <img src="../assets/Rmn3.jpg" />
       <div class='textData'>
-        <h3>În celule și țesuturi, o proporție din apă este legată la suprafața proteinelor ; mișcarea de precesie a nucleilor de hidrogen va fi rapid încetinită datorită vecinătății moleculelor mari, ceea ce va avea ca rezultat un T1 scurt</h3>
+        <h3>În celule și țesuturi, o proporție din apă este legată la suprafața proteinelor ; mișcarea de precesie a nucleilor de hidrogen va fi rapid încetinită datorită vecinătății moleculelor mari, ceea ce va avea ca rezultat un T1 scurt.</h3>
       </div>
     </div>
      <div id="etapa3" class="dataContainer">

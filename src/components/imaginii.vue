@@ -4,18 +4,18 @@
     <div id="etapa1" class="dataContainer">
       <div class='textData'> 
         <h3>Imaginea RMN rezultă prin alăturarea unui număr variabil de pixeli, a căror valoare este determinată de amplitudinea fiecăruia din semnalele cu originea într-o unitate de volum.</h3>
-        <h3>Aceste volume elementare se găsesc dispuse într-un plan de secțiune prin corpul uman, astfel încât, ca și în cazul CT, imaginea RMN este de fapt o imagine tomografică realizată în planul respectiv</h3>
+        <h3>Aceste volume elementare se găsesc dispuse într-un plan de secțiune prin corpul uman, astfel încât, ca și în cazul CT, imaginea RMN este de fapt o imagine tomografică realizată în planul respectiv.</h3>
       </div>
     </div>
 
     <div id="etapa2" class="dataContainer">
       <div class='textData'>
-        <h3>Pentru ca ea să capete semnificația dorită, nu este suficient ca semnalele RMN provenite din fiecare volum elementar examinat să fie recepționate ; aceste semnale trebuie să cuprindă și informații cu privire la poziția exactă în spațiu a volumelor respective</h3>
+        <h3>Pentru ca ea să capete semnificația dorită, nu este suficient ca semnalele RMN provenite din fiecare volum elementar examinat să fie recepționate ; aceste semnale trebuie să cuprindă și informații cu privire la poziția exactă în spațiu a volumelor respective.</h3>
       </div>
     </div>
      <div id="etapa3" class="dataContainer">
       <div class='textData'>
-        <h3>Poziția pixelilor în matrice trebuie să realizeze în ansamblu o veritabilă hartă a secțiunii anatomice.Acest deziderat creează în cazul IRM probleme tehnice complexe</h3>
+        <h3>Poziția pixelilor în matrice trebuie să realizeze în ansamblu o veritabilă hartă a secțiunii anatomice.Acest deziderat creează în cazul IRM probleme tehnice complexe.</h3>
       </div>
     </div>
   </div>

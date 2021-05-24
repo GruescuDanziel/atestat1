@@ -5,7 +5,6 @@
     <div id="dataContainer">
       <div id="topHalf">
         <h5>Structurile examinate interacționează cu un factor fizic exterior ( radiația X, ultrasunetele), atenuându-l sau reflectându-l, în IRM structurile sunt stimulate pentru a produce ele însele semnale utilizabile în producerea unei imagini. </h5>
-        <h5>Ca și ultrasonografia, IRM recurge la un factor fizic neionizant, lipsit de nocivitate, aparținând metodelor de exploarare neinvazive. </h5>
       </div>
       <div id="bottomHalf">
         <h5>Ca și ultrasonografia, IRM recurge la un factor fizic neionizant, lipsit de nocivitate, aparținând metodelor de exploarare neinvazive. </h5>

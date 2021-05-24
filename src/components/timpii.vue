@@ -4,12 +4,12 @@
 
     <div id="dataContainer">
       <div id="topHalf" class="hide">
-        <h5>Durata semnalului RMN, este impusă de două procese fizice, care acționează în sens limitativ : </h5>
+        <h5>Durata semnalului RMN, este impusă de două procese fizice, care acționează în sens limitativ: </h5>
       </div>
       <div id="bottomHalf">
         <div id="leftPart" class='hide'>
           <div class="data">
-            <h5>Revenirea nucleilor oscilanți la poziția lor inițială.</h5>
+            <h5>Revenirea nucleilor oscilanți la poziția lor inițială:</h5>
             <h5>Aceasta se însoțește de scăderea exponențială în timp a amplitudinii semnalului. Are ca substrat transferul de energie de la nucleii în precesie către moleculele mari ale vecinătății.</h5>
             <h5>Aceste molecule formează în jurul nucleilor rezonanți o veritabilă rețea, căreia îi este cedată energia dobândită de nucleii respectivi prin pulsul RF.</h5>
           </div>
@@ -25,7 +25,7 @@
             <img src="../assets/rmn2.jpg"/>
           </div>
            <div>
-            <h5>Durata semnalului restrănsâ prin interacția nucleilor rezonanți (posesori de spin) cu rețeaua structurilor moleculare înconjurătoare este denumită timp de relaxare spin-rețea sau constantă de scădere exponențială T!.</h5>
+            <h5>Durata semnalului restrănsă prin interacția nucleilor rezonanți (posesori de spin) cu rețeaua structurilor moleculare înconjurătoare este denumită timp de relaxare spin-rețea sau constantă de scădere exponențială T1.</h5>
             <h5>Un alt termen folosit în exprimarea acestui timp este timpul de relaxare longitudinală .</h5>
           </div>
        </div>

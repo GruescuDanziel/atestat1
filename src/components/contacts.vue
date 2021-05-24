@@ -1,17 +1,35 @@
 <template>
 
-  <div id="aplicationsContainer" class="hide">
+  <div id="downloadContainer" class="hide">
 
     <div id="dataContainer">
-      <h3>Imagistica medicală a înregistrat un progres real odată cu introducerea RMN-ului ca tehnică imagistică de diagnostic. Principalele caracteristice ale acestei tehnici sunt neinvazivitatea și calitatea marea a imaginii. Scleroza multiplă, boală neurologică demielinizantă, este un exemplu relevant de aplicație a RMN-ului în studiul sistemului nervos central. </h3>
-      <img src="../assets/aplicatii.png">
+      <h3>Site-ul a fost realizat de către: Gruescu Ipatie Daniel și Lorena Maria Vitan.</h3>
+      <h3>Aici se poate găsi documentația și datele din site în format PDF</h3>
+      <div id="downloadLinks">
+        <a href="../../documentation/mainFile.pdf" download>Documentație</a>
+        <a href="../../documentation/mainFile.pdf" download>Datele din Site</a>
+      </div>
     </div>
   </div>
 </template>
 
 <style scoped>
 
-  #aplicationsContainer{
+  #downloadLinks{
+    
+    width:60%;
+    display:flex;
+    justify-content: space-between;
+
+  }
+
+  a{
+    font-size:200%;
+    text-decoration: none;
+    color:#D9CFBF;
+  }
+
+  #downloadContainer{
       height:50%;
       width:100%;
       margin-bottom:5%;
@@ -23,6 +41,7 @@
   #dataContainer{
     height:auto;
     display:flex;
+    flex-direction: column;
     align-items:center;
     margin-left:10%;
     margin-right:10%;
@@ -31,6 +50,7 @@
   #dataContainer h3{
     font-size:2vw;
     color:#D9CFBF;
+    width:100%;
   }
   #dataContainer img{
     max-width:50%;
@@ -64,8 +84,8 @@
 export default{
     mounted(){
       const scene1 = this.$scrollmagic.scene({
-        triggerElement: '#aplicationsContainer'
-      }).setClassToggle('#aplicationsContainer', 'show');
+        triggerElement: '#downloadContainer'
+      }).setClassToggle('#downloadContainer', 'show');
 
       this.$scrollmagic.addScene(scene1);
 

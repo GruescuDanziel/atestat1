@@ -2,11 +2,11 @@
 
   <div id="genezaContainer" class='hide'>
     <div id="dataContainer">
-      <h3>Metoda se bazează pe fenomenul fizic al rezonanței magnetice nucleare. 
+      <h3>Metoda se bazează pe fenomenul fizic al rezonanței magnetice nucleare.
 O imagine obținută traduce în semnale optice intensitatea semnalelor de radiofrecvență (RF) ale unor nuclei atomici din structuri anatomice examinate. 
-Metoda se bazeazâ pe proprietatea unor nuclei atomici, în special a celor de hidrogen (respectiv protonilor) de a realiza o mișcare de rotație în jurul propriului ax, adică de a avea un moment cinetic propriu, spinul nuclear.
-Rotația unei particule încărcate electric, cum este protonul, determinâ apariția unui câmp magnetic propriu orientat în sens opus câmpului electric.
-Această transformă fiecare nucleu într-un dipol magnetic, un magnet microscopic. 
+Metoda se bazează pe proprietatea unor nuclei atomici, în special a celor de hidrogen (respectiv protonilor) de a realiza o mișcare de rotație în jurul propriului ax, adică de a avea un moment cinetic propriu, spinul nuclear.
+Rotația unei particule încărcate electric, cum este protonul, determină apariția unui câmp magnetic propriu orientat în sens opus câmpului electric.
+Aceasta transformă fiecare nucleu într-un dipol magnetic, un magnet microscopic. 
 </h3>
     <img src="../assets/proton.svg">
     </div>
